@@ -1,0 +1,23 @@
+{
+  "name": "social-media-app",
+  "version": "1.0.0",
+  "description": "this is node js project",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atulhackit/nodeJsProject_backend.git"
+  },
+  "author": "atul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atulhackit/nodeJsProject_backend/issues"
+  },
+  "homepage": "https://github.com/Atulhackit/nodeJsProject_backend#readme"
+}
